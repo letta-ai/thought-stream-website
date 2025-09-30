@@ -1,0 +1,17 @@
+{
+  "name": "thought-stream-website",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.13.16",
+    "@atproto/oauth-client-browser": "^0.3.25"
+  },
+  "devDependencies": {
+    "vite": "^6.0.5"
+  }
+}
